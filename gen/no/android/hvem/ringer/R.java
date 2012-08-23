@@ -24,17 +24,26 @@ public final class R {
         public static final int ic_action_search=0x7f020001;
         public static final int ic_launcher=0x7f020002;
         public static final int pinkf=0x7f020003;
+        public static final int shape_background=0x7f020004;
     }
     public static final class id {
-        public static final int menu_settings=0x7f090003;
-        public static final int text=0x7f090000;
-        public static final int textView1=0x7f090002;
-        public static final int toggleButton1=0x7f090001;
+        public static final int menu_settings=0x7f09000a;
+        public static final int text=0x7f090007;
+        public static final int textView1=0x7f090009;
+        public static final int toggleButton1=0x7f090008;
+        public static final int widget32=0x7f090000;
+        public static final int widget33=0x7f090006;
+        public static final int widget34=0x7f090001;
+        public static final int widget36=0x7f090002;
+        public static final int widget37=0x7f090005;
+        public static final int widget38=0x7f090003;
+        public static final int widget39=0x7f090004;
     }
     public static final class layout {
         public static final int activity_on_call=0x7f030000;
-        public static final int main=0x7f030001;
-        public static final int main2=0x7f030002;
+        public static final int dialog=0x7f030001;
+        public static final int main=0x7f030002;
+        public static final int main2=0x7f030003;
     }
     public static final class menu {
         public static final int activity_on_call=0x7f080000;
